@@ -4,6 +4,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body {
+    background-color: #f6f8f9;
+}
+
 #text-logo {
     font-weight: bold;
     font-size: 3rem;
@@ -11,5 +15,8 @@
 }
 
 .logo{
-    max-width: ;
+    background-color: white;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 }
+
