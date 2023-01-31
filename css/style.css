@@ -37,7 +37,7 @@ body {
 /* main */
 .app-main {
     margin: auto;
-    width: 80%;
+    width: 70%;
     margin-top: 2rem;
 
 }
@@ -131,7 +131,7 @@ button {
     border-radius: 50%;
     font-size: 13px;
     padding: 4px;
-    margin: 10px;
+    margin-right: 10px;
 }
 
 .nocheck {
@@ -140,15 +140,18 @@ button {
     border-radius: 50%;
     font-size: 13px;
     padding: 4px;
-    margin: 10px;
+    margin-right: 10px;
 }
 
 .list_main {
     background-color: white;
     margin-top: 5px;
-    padding-left: 2rem;
 }
 
 .hline {
     line-height: 2.5;
+}
+
+ul {
+    list-style-type: none;
 }
