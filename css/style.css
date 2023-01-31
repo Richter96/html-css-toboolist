@@ -1,7 +1,8 @@
-*{
+* {
     margin: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+
 }
 
 body {
@@ -11,30 +12,34 @@ body {
 .mt-1 {
     margin-top: 1rem;
 }
+
 .mt-2 {
     margin-top: 2rem;
 }
+
 .centv {
     vertical-align: middle;
 
 }
+
 /* logo */
 .text-logo {
     font-weight: bold;
     font-size: 3rem;
 }
-.logo{
+
+.logo {
     background-color: white;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
 }
 
 /* main */
-.app-main  {
+.app-main {
     margin: auto;
     width: 80%;
     margin-top: 2rem;
-    
+
 }
 
 .button-main {
@@ -48,6 +53,7 @@ body {
     background-color: #47adf1;
     border: 0px;
 }
+
 button {
     padding: 5px 10px 5px 10px;
     text-align: center;
@@ -55,6 +61,60 @@ button {
     border: 1px solid rgb(136, 136, 136);
     margin: 10px 3px 10px 3px;
 }
+
+.editorial {
+    border-radius: 20px;
+    background-color: #45abea;
+    padding: 5px 15px;
+    color: white;
+    margin-left: 5px;
+}
+
+.q1_goals {
+    border-radius: 20px;
+    background-color: #9c72e4;
+    padding: 5px 15px;
+    color: white;
+    margin-left: 5px;
+
+}
+
+.recruiting {
+    border-radius: 20px;
+    background-color: #64c0a9;
+    padding: 5px 15px;
+    color: white;
+    margin-left: 5px;
+
+}
+
+.mobile {
+    border-radius: 20px;
+    background-color: #d863a1;
+    padding: 5px 15px;
+    color: white;
+    margin-left: 5px;
+
+}
+
+.sales {
+    border-radius: 20px;
+    background-color: #b0c926;
+    padding: 5px 15px;
+    color: white;
+    margin-left: 5px;
+
+}
+
+.website {
+    border-radius: 20px;
+    background-color: #f29e33;
+    padding: 5px 15px;
+    color: white;
+    margin-left: 5px;
+
+}
+
 
 .gray_button {
     padding: 5px 10px 5px 10px;
@@ -69,8 +129,17 @@ button {
     border: 2px solid #5fbda6;
     color: #5fbda6;
     border-radius: 50%;
-    font-size: 16px;
-    padding: 2px;
+    font-size: 13px;
+    padding: 4px;
+    margin: 10px;
+}
+
+.nocheck {
+    border: 2px solid #ee6f67;
+    color: #ee6f67;
+    border-radius: 50%;
+    font-size: 13px;
+    padding: 4px;
     margin: 10px;
 }
 
@@ -81,5 +150,5 @@ button {
 }
 
 .hline {
-    line-height: 2 ;
+    line-height: 2.5;
 }
