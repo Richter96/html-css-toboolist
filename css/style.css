@@ -8,15 +8,62 @@ body {
     background-color: #f6f8f9;
 }
 
-#text-logo {
+.mt-1 {
+    margin-top: 1rem;
+}
+.mt-2 {
+    margin-top: 2rem;
+}
+.centv {
+    vertical-align: middle;
+
+}
+/* logo */
+.text-logo {
     font-weight: bold;
     font-size: 3rem;
-    vertical-align: bottom;
 }
-
 .logo{
     background-color: white;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
 }
 
+/* main */
+.app-main  {
+    margin: auto;
+    width: 80%;
+    padding: 3rem;
+}
+
+.button-main {
+    background-color: white;
+}
+
+.blu_button {
+    color: white;
+    background-color: #47adf1;
+    border: 0px;
+}
+button {
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid rgb(136, 136, 136);
+    margin: 10px 3px 10px 3px;
+}
+
+.gray_button {
+    padding: 5px 10px 5px 10px;
+    color: white;
+    background-color: #47adf1;
+    text-align: center;
+    border-radius: 5px;
+    border: 0px solid black;
+}
+
+
+.list_main {
+    background-color: white;
+    margin-top: 5px;
+}
