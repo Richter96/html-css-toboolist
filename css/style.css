@@ -33,11 +33,14 @@ body {
 .app-main  {
     margin: auto;
     width: 80%;
-    padding: 3rem;
+    margin-top: 2rem;
+    
 }
 
 .button-main {
     background-color: white;
+    padding-left: 2rem;
+
 }
 
 .blu_button {
@@ -62,8 +65,21 @@ button {
     border: 0px solid black;
 }
 
+.check {
+    border: 2px solid #5fbda6;
+    color: #5fbda6;
+    border-radius: 50%;
+    font-size: 16px;
+    padding: 2px;
+    margin: 10px;
+}
 
 .list_main {
     background-color: white;
     margin-top: 5px;
+    padding-left: 2rem;
+}
+
+.hline {
+    line-height: 2 ;
 }
