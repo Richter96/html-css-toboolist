@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
@@ -116,6 +116,10 @@ button {
     color: white;
     margin-left: 5px;
 
+}
+ 
+.fa {
+    font-size:24px
 }
 
 .website {
